@@ -79,7 +79,5 @@ while True:
     driver.close()
     driver.quit()
 
-    time.sleep(2)
-
     firstTime = False
 
