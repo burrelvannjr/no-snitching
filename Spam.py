@@ -69,7 +69,7 @@ while True:
     submit_button = driver.find_element(By.XPATH, "//button[@data-client-id='form_submit_btn']").click()
 
     # Wait for the page to load (adjust the time as needed)
-    time.sleep(10)
+    time.sleep(5)
 
     #let the user fill out the captcha
     if firstTime:
@@ -79,7 +79,6 @@ while True:
     driver.close()
     driver.quit()
 
-    #wait 5 seconds 
     time.sleep(2)
 
     firstTime = False
