@@ -38,7 +38,7 @@ once you solve a captcha it should let you submit a few more times, if you keep 
 ## Script Usage
 
 ### Input Files
-The script requires the following text files in the same directory as the script. Each file should contain one entry per line:
+The script requires the following text files in the same directory as the script.
 - `first-names.txt`: First names
 - `last-names.txt`: Last names
 - `courses.txt`: Course names
