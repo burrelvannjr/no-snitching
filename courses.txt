@@ -1,0 +1,97 @@
+ACCT 201 - Elementary Financial Accounting 
+ACCT 202 - Managerial Accounting 
+ACCT 300A - Intermediate Accounting 
+ACCT 300B - Intermediate Accounting 
+ACCT 320 - Cost Accounting 
+ACCT 351 - Federal Tax Law 
+ACCT 352 - Voluntary Income Tax Assistance (VITA) 
+ACCT 400 - Advanced Accounting 
+ACCT 460 - Accountants' Professional Responsibilities and Ethics 
+ACCT 465 - International Accounting 
+ACCT 470 - Auditing 
+ACCT 480 - Accounting Systems and Data Processing 
+ACCT 493 - Accounting Internships 
+ACCT 495 - Selected Topics in Accountancy 
+ACCT 497 - Directed Studies in Accountancy 
+ACCT 500 - Financial Accounting 
+ACCT 510 - Intensive Intermediate Accounting I 
+ACCT 511 - Intensive Intermediate Accounting II 
+ACCT 512 - Review of Individual Income Taxation 
+ACCT 513 - Review of Auditing 
+ACCT 601 - Corporate Governance and Financial Reporting 
+ACCT 602 - Advanced Cost Accounting 
+ACCT 603 - Financial Statement Analysis 
+ACCT 604 - Forensic Accounting 
+ACCT 605 - Seminar in Accounting Information Systems 
+ACCT 610 - Managerial Accounting and Control 
+ACCT 611 - Seminar in Auditing and Assurance Services 
+ACCT 612 - Governmental and Non-Profit Accounting & Taxation 
+ACCT 622 - Taxation of Partnerships & S Corporations 
+ACCT 623 - Taxation of C Corporations and Shareholders 
+ACCT 633 - Accounting Database Systems 
+ACCT 695 - Selected Topics in Accountancy 
+ACCT 697 - Directed Studies in Accountancy 
+ACCT 699 - Accountant's Professional Responsibilities and Ethics 
+ANTH 110 - Introduction to Physical Anthropology 
+ANTH 120 - Introduction to Cultural Anthropology 
+ANTH 140 - Pyramids, Tombs and Treasure: Wonders of the Past 
+ANTH 155 - Medical Technologies and Human Bodies 
+ANTH 170 - Introduction to Linguistics 
+ANTH 305 - Radical Social Analysis 
+ANTH 307 - Modernization in Global Perspective 
+ANTH 313 - World Prehistory 
+ANTH 314 - Global Ethnography 
+ANTH 315 - Human Variation 
+ANTH 319 - Human Growth and Development 
+ANTH 321 - North American Indians 
+ANTH 322 - California Indians 
+ANTH 329 - Cultural Diversity in California 
+ANTH 351 - Sex Roles and Culture 
+ANTH 353 - Health and Healing 
+ANTH 363 - Natural History of Primates 
+ANTH 401 - Foundations of Anthropology 
+ANTH 402 - Evolutionary Theory 
+ANTH 405 - Principles of Archaeology 
+ANTH 412 - Culture and Communication 
+ANTH 413 - Language and Culture 
+ANTH 414 - Anthropology of Religion 
+ANTH 417 - Applied Anthropology 
+ANTH 418 - Methods in Linguistic Anthropology 
+ANTH 419 - Encounters and Identities 
+ANTH 421 - Education Across Cultures 
+ANTH 422 - The Anthropology of Gender 
+ANTH 423 - Professional Development in Anthropology 
+ANTH 431 - New Media Ethnography 
+ANTH 432 - Peoples of Mexico and Central America 
+ANTH 434 - Primate Evolution 
+ANTH 435 - Human Evolution 
+ANTH 436 - Medical Anthropology 
+ANTH 438 - Evolution of Sex and Reproduction 
+ANTH 439 - Methods in Biological Anthropology 
+ANTH 440 - Ethnographic Field School 
+ANTH 441 - Ethnographic Film Production I 
+ANTH 443 - The Israeli-Palestinian Conflict 
+ANTH 444 - Transnational Migrants 
+ANTH 448 - Ancient Civilizations of Mexico and Central America 
+ANTH 449 - Prehistoric Cultures of North America 
+ANTH 450 - Archaeological Field Research 
+ANTH 454 - Culture and Aging 
+ANTH 458 - Ethnographic Methods 
+ANTH 473 - Archaeology of California 
+ANTH 475 - Language and Gender in Cross‑Cultural Perspective 
+ANTH 478 - Anthropology and Film 
+ANTH 480A - Osteology I 
+ANTH 487 - Cultural Resource Management 
+ANTH 490 - Selected Topics in Anthropology 
+ANTH 496 - Internship 
+ANTH 498 - Senior Thesis 
+ANTH 499 - Guided Studies in Anthropology 
+ANTH 501 - Current Trends in Anthropological Theory 
+ANTH 503 - The Anthropological Perspective 
+ANTH 505 - Practicing Anthropology 
+ANTH 510 - Proseminar 
+ANTH 514 - Anthropology of Religion 
+ANTH 517 - Applied Anthropology 
+ANTH 519 - Encounters and Identities 
+ANTH 522 - The Anthropology of Gender 
+ANTH 530 - Ethnography of Communication 
