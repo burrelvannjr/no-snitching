@@ -56,7 +56,8 @@ The script requires the following text files in the same directory as the script
    ```shell
    python Spam.py
    ```
-   
+
+If you get a Captcha and it is not your first instance, just quit and change ips or wait a bit
 
 ### Script Behavior
 1. The script initializes the Selenium WebDriver and opens the specified URL.
