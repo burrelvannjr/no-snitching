@@ -1,7 +1,7 @@
 # README: I hate people who cross picket lines and I hate snitches more
 
 ## Description
-This project is a Python-based automation script using Selenium WebDriver. It's designed to fill out and submit a form automatically on the specified webpage, using randomly generated data pulled from text files.
+This project is a Python-based automation script using Selenium WebDriver. Its designed to provide fake, believable data to csulbs class snitchy thing
 
 ## Prerequisites
 To run this script, you need Python installed on your system, along with the Selenium package and the appropriate WebDriver for your browser.
