@@ -73,6 +73,7 @@ The script requires the following text files in the same directory as the script
   - All input files exist and are formatted correctly.
   - The IDs used in the script match the actual IDs of the form elements.
   - The WebDriver is compatible with your browser version.
+  - reach out to me for help uhohspaghettioo@proton.me
 
 ## Contributions
 
