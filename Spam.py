@@ -6,6 +6,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+from selenium_stealth import stealth
 
 import time
 
@@ -18,15 +19,32 @@ def read_random_line(file_path):
 
 while True:
     url = "https://app.smartsheet.com/b/form/0425c7c578b54316a0a7d76b9e28dfb5"
+    
 
     chrome_options = Options()
+    options = webdriver.ChromeOptions() 
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+    chrome_options.add_experimental_option('useAutomationExtension', False)
 
+    
     # Set path to chromedriver as per your configuration
     webdriver_service = Service(ChromeDriverManager().install())
 
     # Initialize the driver
     driver = webdriver.Chrome(service=webdriver_service, options=chrome_options)
+    chrome_options.add_argument("--disable-blink-features")
+    chrome_options.add_argument("--disable-blink-features=AutomationControlled")
+    #print(driver.execute_script("return navigator.userAgent;"))
 
+    stealth(driver,
+        languages=["en-US", "en"],
+        vendor="Google Inc.",
+        platform="Win32",
+        webgl_vendor="Intel Inc.",
+        renderer="Intel Iris OpenGL Engine",
+        fix_hairline=True,
+        )
+    
     # Read a random line from each file
     random_first_name = read_random_line('first-names.txt')
     random_last_name = read_random_line('last-names.txt')
@@ -47,8 +65,6 @@ while True:
     # Find input boxes by guessed IDs or names
     driver.get(url)
 
-    # Wait for the page to load (adjust the time as needed)
-    time.sleep(5)
 
     #before finding elements, need to verify if one exists and has been loaded
     #if it has been loaded, then find the element
@@ -69,7 +85,7 @@ while True:
     submit_button = driver.find_element(By.XPATH, "//button[@data-client-id='form_submit_btn']").click()
 
     # Wait for the page to load (adjust the time as needed)
-    time.sleep(5)
+    time.sleep(4)
 
     #let the user fill out the captcha
     if firstTime:
@@ -80,4 +96,3 @@ while True:
     driver.quit()
 
     firstTime = False
-
