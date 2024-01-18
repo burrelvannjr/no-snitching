@@ -17,6 +17,8 @@ If you see a captcha, press CTRL+C in the same terminal you ran Spam.py to stop 
 4. **NordVPN or some VPN**: you need this to switch servers otherwise you end up in captcha hell. just get a trial if ur cheap like me. make sure youre not just re connecting to the same vpn server, manually choose a server if youre using an app.
 
 ## Installation
+### Getting the code
+- Download and extract the zip from this repo. then, open CMD, and type cd C:\path\where\you\installed\no-snitching-main
 
 ### Installing Python
 - **Windows/macOS/Linux**: Download and install Python from the [official website](https://www.python.org/downloads/).
@@ -25,6 +27,7 @@ If you see a captcha, press CTRL+C in the same terminal you ran Spam.py to stop 
 - After installing Python, install Selenium by running the following command in your terminal or command prompt:
   ```shell
   pip install selenium
+  pip install selenium-stealth
   ```
 
 ### Installing WebDriver
