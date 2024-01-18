@@ -5,7 +5,7 @@ This project is a Python-based automation script using Selenium WebDriver. Its d
 
 ## Prerequisites
 To run this script, you need Python installed on your system, along with the Selenium package and the appropriate WebDriver for your browser.
-Use a vpn, or some way to obfuscate your ip, otherwise have fun filling out a million captchas. I like nord :)
+Use a vpn, or some way to obfuscate your ip, otherwise have fun filling out a million captchas. I like nord :) they have a free trial
 
 If you see a captcha, press CTRL+C in the same terminal you ran Spam.py to stop the script. Switch your vpn server or change IPs and try again. 
 
