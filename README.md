@@ -7,15 +7,14 @@ This project is a Python-based automation script using Selenium WebDriver. Its d
 To run this script, you need Python installed on your system, along with the Selenium package and the appropriate WebDriver for your browser.
 Use a vpn, or some way to obfuscate your ip, otherwise have fun filling out a million captchas. I like nord :)
 
-if you encounter a captcha there is enough time to fill it out. if you want more time, adjust the sleeo value at line 72 to be longer than 10 (seconds)
-
-once you solve a captcha it should let you submit a few more times, if you keep getting them tho stop the script, change ip and restart
+If you see a captcha, press CTRL+C in the same terminal you ran Spam.py to stop the script. Switch your vpn server or change IPs and try again. 
 
 
 ### Required Software & Drivers
 1. **Python**: The script is written in Python, so you need Python installed.
 2. **Selenium**: A browser automation framework.
 3. **WebDriver**: An executable file that allows Selenium to interface with a browser. You need the correct WebDriver for your browser (e.g., ChromeDriver for Google Chrome).
+4. **NordVPN or some VPN**: you need this to switch servers otherwise you end up in captcha hell. just get a trial if ur cheap like me. make sure youre not just re connecting to the same vpn server, manually choose a server if youre using an app.
 
 ## Installation
 
@@ -63,11 +62,10 @@ If you get a Captcha and it is not your first instance, just quit and change ips
 1. The script initializes the Selenium WebDriver and opens the specified URL.
 2. It reads a random line from each of the input files.
 3. It fills out the form on the page using the randomly selected data.
-4. After submitting the form, it waits for the user to complete any CAPTCHAs or additional verification.
-5. Once the user signals completion (by pressing Enter), it closes the browser and restarts the process.
+4. Once the user signals completion (by pressing Enter for the first time), it closes the browser and restarts the process.
 
 ### Note
-- The first time the script submits the form, it will pause and wait for you to manually solve a CAPTCHA or perform any required human verification. Press Enter in the terminal after you've completed this step. 
+- The first time the script submits the form, it will pause and wait for you to see if the IP is burnt. if you get a captcha on your first response call it GG and change ur IP
 
 ## Troubleshooting
 - If the script isn't working as expected, ensure that:
